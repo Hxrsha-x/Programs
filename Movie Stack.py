@@ -1,4 +1,4 @@
-#Stack
+#Stack of Movies
 def push(l):
     a=eval(input('enter movie name , year of release'))
     l.append(a)
